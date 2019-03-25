@@ -1,2 +1,2 @@
-# c-lang-source
-C lang of Universe's Lesson source
+# source
+University Lesson source
